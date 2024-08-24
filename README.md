@@ -1,2 +1,2 @@
 # Java-Revision
-Single java file for revising basic concepts.
+Single file for the revising JAVA BASIC concepts.
